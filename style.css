@@ -1,11 +1,5 @@
-body {
-  font-family: Arial;
-  background: #121212;
-  color: white;
-  text-align: center;
-  padding: 50px;
-}
-input, button {
-  padding: 10px;
-  margin: 10px;
-}
+body {margin:0;font-family:Arial;}
+nav {display:flex;justify-content:space-between;padding:15px;background:#f5f8ff;}
+ul {display:flex;gap:20px;list-style:none;}
+button {background:#2b6cff;color:white;border:none;padding:10px;}
+.hero {padding:60px;text-align:center;background:#e8f0ff;}
